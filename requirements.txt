@@ -1,0 +1,7 @@
+gTTS
+pyaudio
+playsound
+cx-Freeze
+deep-translator
+SpeechRecognition
+google-transliteration-api
