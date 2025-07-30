@@ -438,21 +438,21 @@ def open_about_page():
     github_link.bind("<Button-1>", lambda e: open_webpage("https://github.com/SamirPaulb/real-time-voice-translator"))
     github_link.pack(pady=5)
 
-    about_text_content = """
-    EchoWrite is a machine learning project that translates voice from one language to another in real time while preserving the tone and emotion of the speaker, and outputs the result in MP3 format. Choose input and output languages from the dropdown menu and start the translation!
+   about_text_content = """
+EchoWrite is a machine learning project that translates voice from one language to another in real time while preserving the tone and emotion of the speaker, and outputs the result in MP3 format. Choose input and output languages from the dropdown menu and start the translation!
 
-    Features:
-    - Real-time voice translation
-    - Live transliteration display (best effort with free API)
-    - Automatic noise adjustment
-    - Timestamps for all recognition/translation
-    - Saves spoken text to voice_log.txt
-    - Manual 'Process Now' button for immediate translation
-    - Offline Text-to-Speech playback of translated text!
+Features:
+- Real-time voice translation
+- Live transliteration display (best effort with free API)
+- Automatic noise adjustment
+- Timestamps for all recognition/translation
+- Saves spoken text to voice_log.txt
+- Manual 'Process Now' button for immediate translation
+- Offline Text-to-Speech playback of translated text!
 
-    Developed by: Samir Paul
-    Version: v2.0.1
-    """
+Developed by: Thushi Suhana Shaik
+Version: v2.0.1
+"""
     about_text = scrolledtext.ScrolledText(about_window, height=11, width=55, wrap=tk.WORD, state='disabled', relief="flat", style='About.ScrolledText')
     about_text.insert("1.0", about_text_content.strip())
     about_text.pack(pady=10, padx=10, fill='both', expand=True)
