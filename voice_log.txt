@@ -1,0 +1,78 @@
+[2025-07-17 15:56:35] Recognized: hello
+[2025-07-17 15:58:11] Recognized: just now
+[2025-07-17 15:58:11] Translated: बस अब
+[2025-07-17 15:58:24] Error: Could not understand audio.
+[2025-07-17 15:58:29] Error: Could not understand audio.
+[2025-07-17 15:58:33] Error: Could not understand audio.
+[2025-07-17 15:58:39] Recognized: eppudu
+[2025-07-17 15:58:39] Translated: कब
+[2025-07-17 15:58:49] Recognized: any chest
+[2025-07-17 15:58:49] Translated: क्या करें
+[2025-07-17 15:59:03] Recognized: Ekkada
+[2025-07-17 15:59:03] Translated: कहाँ
+[2025-07-17 15:59:12] Error: Could not understand audio.
+[2025-07-17 15:59:18] Recognized: alarm
+[2025-07-17 15:59:18] Translated: खतरे की घंटी
+[2025-07-17 15:59:28] Recognized: alarm
+[2025-07-17 15:59:28] Translated: खतरे की घंटी
+[2025-07-17 15:59:39] Error: Could not understand audio.
+[2025-07-17 15:59:48] Error: Could not understand audio.
+[2025-07-17 15:59:56] Error: Could not understand audio.
+[2025-07-17 16:00:07] Error: Could not understand audio.
+[2025-07-17 16:06:08] Recognized: how are you
+[2025-07-17 16:06:08] Translated: आप कैसे हैं
+[2025-07-17 16:06:18] Recognized: what
+[2025-07-17 16:06:18] Translated: क्या
+[2025-07-17 16:06:24] Error: Could not understand audio.
+[2025-07-17 16:06:34] Recognized: what are what are
+[2025-07-17 16:06:34] Translated: क्या हैं
+[2025-07-17 16:06:43] Error: Could not understand audio.
+[2025-07-17 16:06:46] Error: Could not understand audio.
+[2025-07-17 16:06:47] Error: Could not understand audio.
+[2025-07-17 16:06:52] Error: Could not understand audio.
+[2025-07-17 16:06:54] Error: Could not understand audio.
+[2025-07-17 16:06:59] Recognized: మీ
+[2025-07-17 16:06:59] Translated: मुझे
+[2025-07-17 16:07:07] Recognized: ఏమి
+[2025-07-17 16:07:07] Translated: क्या करें
+[2025-07-17 16:07:22] Recognized: ఏమి చేస్తున్నావ్
+[2025-07-17 16:07:22] Translated: आप क्या कर रहे हो
+[2025-07-17 16:07:36] Recognized: ఎక్కడ
+[2025-07-17 16:07:36] Translated: कहाँ
+[2025-07-17 16:07:46] Recognized: ఎక్కడ
+[2025-07-17 16:07:46] Translated: कहाँ
+[2025-07-17 16:07:56] Error: Could not understand audio.
+[2025-07-17 16:07:59] Error: Could not understand audio.
+[2025-07-17 16:08:08] Error: Could not understand audio.
+[2025-07-17 16:08:10] Error: Could not understand audio.
+[2025-07-17 16:08:23] Recognized: నేను ఇంటికి
+[2025-07-17 16:08:23] Translated: मैं घर पर हूं
+[2025-07-17 16:08:37] Recognized: థాంక్యూ
+[2025-07-17 16:08:37] Translated: धन्यवाद
+[2025-07-17 16:20:18] Recognized: are you doing something
+[2025-07-17 16:20:18] Translated: कुछ कर रही हो क्या
+[2025-07-17 16:20:32] Error: Could not understand audio (final).
+[2025-07-17 16:22:09] Recognized: have you eat dinner at restaurant
+[2025-07-17 16:22:09] Translated: మీరు రెస్టారెంట్‌లో విందు తిన్నారా?
+[2025-07-17 16:22:31] Error: Could not understand audio (final).
+[2025-07-17 16:22:44] Error: Could not understand audio (final).
+[2025-07-17 16:22:56] Error: Could not understand audio (final).
+[2025-07-17 16:24:10] Recognized: what are you doing
+[2025-07-17 16:24:10] Translated: మీరు ఏమి చేస్తున్నారు
+[2025-07-17 16:24:32] Recognized: dusra Baat karen to uska translation
+[2025-07-17 16:24:32] Translated: దుస్రా బాట్ కరెన్ నుండి ఉస్కా అనువాదం
+[2025-07-21 02:22:46] Recognized: ఎలా ఉన్నారు
+[2025-07-21 02:22:46] Translated: How are you
+[2025-07-21 02:23:34] Recognized: పంజాబీ తమిళ్ తెలుగు
+[2025-07-21 02:23:34] Translated: Punjabi Tamil Telugu
+[2025-07-21 02:31:25] Recognized: which shut up Karishma
+[2025-07-21 02:31:25] Translated: ఇది కరిష్మాను మూసివేస్తుంది
+[2025-07-21 02:32:15] Recognized: which
+[2025-07-21 02:32:15] Translated: ఇది
+[2025-07-21 02:32:40] Recognized: bitch
+[2025-07-21 02:32:40] Translated: బిచ్
+[2025-07-21 02:33:06] Recognized: Karishma is blind
+[2025-07-21 02:33:06] Translated: కరిష్మా అంధుడు
+[2025-07-21 02:33:17] Error: Could not understand audio (final).
+[2025-07-21 02:33:31] Recognized: Karishma
+[2025-07-21 02:33:31] Translated: కరిష్మా
