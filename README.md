@@ -8,10 +8,24 @@ A real-time speech-to-speech translator with features like transliteration and o
 - Translates text between multiple languages
 - Supports transliteration
 - Saves conversation logs
-- Clean GUI built with Tkinter
+- Clean and user-friendly GUI built with Tkinter
 
 ## 🛠️ Tools Used
-Python, Tkinter, speech_recognition, gTTS, pyttsx3, deep_translator
+- Python
+- Tkinter
+- `speech_recognition`
+- `gTTS`
+- `pyttsx3`
+- `deep_translator`
 
 ## 🚀 How to Run
-1. Install dependencies:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/thushii/echo-write-voice-translator.git
+   cd echo-write-voice-translator
+
+2. pip install -r requirements.txt
+
+3.python app.py
+
